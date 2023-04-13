@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Who's invited?",
+        "answer": "TreeHacks organizers, past and present, and their +1's."
+    },
+    {
+        "id": 2,
+        "question": "Where is it?",
+        "answer": "A yacht on the SF Bay. Exact meeting point in SF will be sent to those who RSVP closer to date."
+    },
+    {
+        "id": 3,
+        "question": "When is it?",
+        "answer": "Wednesday, May 17th evening."
+    },
+    {
+        "id": 4,
+        "question": "I'm on campus right now. How will I get there?",
+        "answer": "We will have buses coming from and to Stanford. Make sure to RSVP by Friday, April 28th to save a seat."
+    },
+    {
+        "id": 5,
+        "question": "Will dinner be served?",
+        "answer": "Yes, we will have plenty of food and bev. Please note any dietary restrictions on RSVP form."
+    },
+    {
+        "id": 6,
+        "question": "Can I bring a guest?",
+        "answer": "Yes, if you said so in your RSVP! Due to boat capacity, we will unfortunately not be able to accomodate more than 1 guest per organizer."
+    }
+]
