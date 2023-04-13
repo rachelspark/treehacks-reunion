@@ -16,8 +16,8 @@ export default function Home() {
       />
       </div>
       <div className="w-full text-center pt-24 pb-48 z-0">
-        <div className="animate-text bg-gradient-to-r from-green-200 via-blue-400 to-indigo-400 bg-clip-text text-transparent text-7xl pb-6 font-black">️TreeHacks Reunion 2023</div>
-        <div className="text-gray-300 font-medium text-3xl pb-12">Reunion II: Embracing a new tradition</div>
+        <div className="animate-text bg-gradient-to-r from-green-200 via-blue-400 to-indigo-400 bg-clip-text text-transparent text-7xl px-2 pb-6 font-black">️TreeHacks Reunion 2023</div>
+        <div className="text-gray-300 font-medium text-3xl pb-12 px-2">Reunion II: Embracing a new tradition</div>
         <div className="text-white font-light text-lg pb-2">Wednesday May 17th, 7-11pm</div>
         <div className="text-white font-light text-lg pb-2">🛥 on the  🌉 🌊</div>
       </div>
