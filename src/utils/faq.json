@@ -7,7 +7,7 @@
     {
         "id": 2,
         "question": "Where is it?",
-        "answer": "A yacht on the SF Bay. Exact meeting point in SF will be sent to those who RSVP closer to date."
+        "answer": "A yacht on the SF Bay. Exact meeting point in SF will be sent closer to date to those who RSVP."
     },
     {
         "id": 3,
@@ -27,6 +27,6 @@
     {
         "id": 6,
         "question": "Can I bring a guest?",
-        "answer": "Yes, if you said so in your RSVP! Due to boat capacity, we will unfortunately not be able to accomodate more than 1 guest per organizer."
+        "answer": "Yes, if you say so in your RSVP! Due to boat capacity, we will unfortunately not be able to accomodate more than 1 guest per organizer."
     }
 ]
