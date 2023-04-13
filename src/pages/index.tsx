@@ -25,7 +25,7 @@ export default function Home() {
         <div className="text-center text-3xl font-bold pb-8">Accept Invitation</div>
         <Form/>
       </div>
-      <div className="py-12 w-3/4">
+      <div className="py-12 w-2/3">
         <div className="text-center text-3xl font-bold py-8">FAQs</div>
         <div>{questions.map((question) => ( 
           <div key={question.id}>
